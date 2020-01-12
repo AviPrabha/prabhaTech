@@ -1,0 +1,34 @@
+Selenium:
+1. write a script to verify that login page is loaded within 3 sec
+2. write a script to  login and logout and script as to be synchronized without using implicitly wait or thread .sleep
+3. without using explicit wait also
+4. write a script to verify whether alert popup is displayed or not -- acti time
+5. write a script to print the message displayed on confirmation popup and click on cancel -- http://www.actimind.com/contact.php 
+6. write a script to verify whether hidden division popup is displayed or not -- actitime create customer > delete with checking 
+7.write a script to verify whether hidden division popup is displayed and print message in popup and cancel popup 
+8. write a script to select today's date in calendar
+9. write a script to select future date in the calendar -- 15 days ahead
+10. write a script to upload a file in 2share.com 
+11. write a script to login to naukri and print values present under profiles performance and also print number of job alerts
+Expand update profile option and print all option present in that and logout.
+12. verify whether given option is duplicate or not 
+13. plus2net.com/php_tutorial/ajax
+
+       print the countries in listbox and select one of them
+       print state and select one of them
+       print the city and select one of them
+
+
+JAVA :
+
+    How to identify a given positive decimal number as even/odd without using % or / operator ? 
+    How to count occurrence of a given character in a String? 
+    In an array 1-100 numbers are stored, one number is missing how do you find it?
+    In an array 1-100 exactly one number is duplicate how do you find it?
+    In an array 1-100 multiple numbers are duplicates, how do you find it?
+    Given two arrays, 1,2,3,4,5 and 2,3,1,0,5 find which number is not present in the second array.
+    How to remove duplicate elements from array in Java?
+    Convert a given string as "11/12/2010" to a Date object.
+    Find out the number of days in between two  given dates ?
+    If you assign null to the String variable, and then you print the variable what will be the output ? Justify your answer.
+    Write code to implement Bubble Sort in Java?
